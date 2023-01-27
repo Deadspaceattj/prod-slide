@@ -1,2 +1,2 @@
-# prod-slide
+# react-flipkart
 Created with CodeSandbox
